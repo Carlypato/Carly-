@@ -1,0 +1,126 @@
+
+
+
+
+ul {}
+
+#one{
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+#one {
+     background-color: yellow;
+      font-size: 30px;
+    font-family: monospace     
+}
+
+
+
+#two {
+   
+     background-color: orange;
+    font-size: 30px;
+    font-family: monospace
+}
+
+#two{
+  padding-left:10px;
+  padding-right: 10px;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+
+
+#four {
+     background-color: hotpink;
+     font-size: 30px;
+    font-family: monospace
+}
+
+#four{
+  padding-left:10px;
+  padding-right: 10px;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+#five {
+     background-color: mediumpurple;
+     font-size: 30px;
+    font-family: monospace
+}
+
+#five{
+  padding-left:10px;
+  padding-right: 10px;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+
+#six {
+     background-color: lightblue;
+     font-size: 30px;
+    font-family: monospace
+}
+
+#six{
+  padding-left:10px;
+  padding-right: 10px;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+#seven {
+     background-color: lightgreen;
+     font-size: 30px;
+    font-family: monospace
+}
+
+#seven{
+  padding-left:10px;
+  padding-right: 10px;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+#eight {
+     background-color: greenyellow;
+     font-size: 30px;
+    font-family: monospace
+}
+
+#eight{
+  padding-left:10px;
+  padding-right: 10px;
+  padding-bottom:10px;
+  padding-top:10px;
+}
+
+#l {
+    position: fixed;
+  top:1px;;
+  left:90%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#e {
+    position: fixed;
+  top:1px;;
+  left:92%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+    
+
+
+
+

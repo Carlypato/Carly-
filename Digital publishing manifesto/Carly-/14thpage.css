@@ -1,0 +1,815 @@
+#a {
+    position: fixed;
+  top:1px;
+    left: 1.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#b {
+    position: fixed;
+  top:2px;;
+left: 3%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#c {
+    position: fixed;
+  top:3px;;
+left: 4.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#d {
+    position: fixed;
+  top:4px;
+    left: 6%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#e {
+    position: fixed;
+  top:5px;;
+left: 7.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#f {
+    position: fixed;
+  top:6px;;
+left: 9%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#g {
+    position: fixed;
+  top:7px;
+    left: 10.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#h {
+    position: fixed;
+  top:8px;;
+left: 12%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#i {
+    position: fixed;
+  top:9px;;
+left: 13.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#j {
+    position: fixed;
+  top:10px;
+    left: 15%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#k {
+    position: fixed;
+  top:9px;;
+left: 16.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#l {
+    position: fixed;
+  top:8px;;
+left: 18%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#m {
+    position: fixed;
+  top:7px;
+    left: 19.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#n {
+    position: fixed;
+  top:6px;;
+left: 21%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#o {
+    position: fixed;
+  top:5px;;
+left: 22.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#p {
+    position: fixed;
+  top:4px;
+    left: 24%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#q {
+    position: fixed;
+  top:3px;;
+left: 25.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#r {
+    position: fixed;
+  top:2px;;
+left: 27%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#s {
+    position: fixed;
+  top:1px;
+    left: 28.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#t {
+    position: fixed;
+  top:2px;;
+left: 30%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#u {
+    position: fixed;
+  top:3px;;
+left: 31.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#v {
+    position: fixed;
+  top:4px;
+    left: 33%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#w {
+    position: fixed;
+  top:5px;;
+left: 34.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#x {
+    position: fixed;
+  top:6px;;
+left: 36%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#y {
+    position: fixed;
+  top:7px;
+    left: 37.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#z {
+    position: fixed;
+  top:8px;;
+left: 39%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+
+#aa {
+    position: fixed;
+  top:9px;
+    left: 40.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#bb {
+    position: fixed;
+  top:10px;;
+left: 42%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#cc {
+    position: fixed;
+  top:9px;;
+left: 43.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#dd {
+    position: fixed;
+  top:8px;
+    left: 45%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#ee {
+    position: fixed;
+  top:7px;;
+left: 46.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#ff {
+    position: fixed;
+  top:6px;;
+left: 48%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#gg {
+    position: fixed;
+  top:5px;
+    left: 49.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#hh {
+    position: fixed;
+  top:4px;;
+left: 51%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#ii {
+    position: fixed;
+  top:3px;;
+left: 52.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#jj {
+    position: fixed;
+  top:2px;
+    left: 54%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#kk {
+    position: fixed;
+  top:1px;;
+left: 55.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#ll {
+    position: fixed;
+  top:2px;;
+left: 57%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#mm {
+    position: fixed;
+  top:3px;
+    left: 58.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#nn {
+    position: fixed;
+  top:4px;;
+left: 60%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#oo {
+    position: fixed;
+  top:5px;;
+left: 61.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#pp {
+    position: fixed;
+  top:6px;
+    left: 63%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#qq {
+    position: fixed;
+  top:7px;;
+left: 64.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#rr {
+    position: fixed;
+  top:8px;;
+left: 66%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#ss {
+    position: fixed;
+  top:9px;
+    left: 67.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#tt {
+    position: fixed;
+  top:10px;;
+left: 69%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#uu {
+    position: fixed;
+  top:9px;;
+left: 70.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#vv {
+    position: fixed;
+  top:8px;
+    left: 72%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#ww {
+    position: fixed;
+  top:7px;;
+left: 73.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#xx {
+    position: fixed;
+  top:6px;;
+left: 75%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#yy {
+    position: fixed;
+  top:5px;
+    left: 76.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#zz {
+    position: fixed;
+  top:4px;;
+left: 78%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+
+
+
+
+
+#aaa {
+    position: fixed;
+  top:3px;
+    left: 79.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#bbb {
+    position: fixed;
+  top:2px;;
+left: 81%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#ccc {
+    position: fixed;
+  top:1px;;
+left: 82.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#ddd {
+    position: fixed;
+  top:2px;
+    left: 84%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#eee {
+    position: fixed;
+  top:3px;;
+left: 85.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#fff {
+    position: fixed;
+  top:4px;;
+left: 87%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#ggg {
+    position: fixed;
+  top:5px;
+    left: 88.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#hhh {
+    position: fixed;
+  top:6px;;
+left: 90%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#iii {
+    position: fixed;
+  top:7px;;
+left: 91.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#jjj {
+    position: fixed;
+  top:8px;
+    left: 93%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#kkk {
+    position: fixed;
+  top:9px;;
+left: 94.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#lll {
+    position: fixed;
+  top:10px;;
+left: 96%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#mmm {
+    position: fixed;
+  top:11px;
+    left: 97.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+#nnn {
+    position: fixed;
+  top:4px;;
+left: 99%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#ooo {
+    position: fixed;
+  top:5px;;
+left: 101.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#ppp {
+    position: fixed;
+  top:6px;
+    left: 103%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#qqq {
+    position: fixed;
+  top:7px;;
+left: 104.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#rrr {
+    position: fixed;
+  top:8px;;
+left: 106%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+
+#sss {
+    position: fixed;
+  top:9px;
+    left: 107.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#ttt {
+    position: fixed;
+  top:10px;;
+left: 109%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#uuu {
+    position: fixed;
+  top:9px;;
+left: 110.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#vvv {
+    position: fixed;
+  top:8px;
+    left: 112%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#www {
+    position: fixed;
+  top:7px;;
+left: 113.5%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+#xxx {
+    position: fixed;
+  top:6px;;
+left: 115%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: greenyellow;}
+
+#yyy {
+    position: fixed;
+  top:5px;
+    left: 116.5%;
+
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: hotpink;}
+
+
+#zzz {
+    position: fixed;
+  top:4px;;
+left: 118%;
+    font-family: helvetica; 
+    font-style: bold;
+    font-size: 45px;
+    color: deepskyblue;}
+
+
+#one {
+    font-size: 150px;
+    color: orange;
+    margin-top: 500px;
+}
+
+
+
+
+#less {
+    font-size:100px;
+    font-family: univers;
+    padding-left:30px;
+  padding-right:30px;
+  padding-bottom:30px;
+    padding-top:30px;
+  border: 2000px solid hotpink;}
+
+#less2 {
+    font-size:100px;
+    font-family: univers;
+    
+    padding-left:30px;
+  padding-right:30px;
+  padding-bottom:30px;
+    padding-top:30px;
+  border: 2000px solid deepskyblue;}
+
+#less3 {
+    font-size:100px;
+    font-family: univers;
+    
+    padding-left:30px;
+  padding-right:30px;
+  padding-bottom:30px;
+    padding-top:30px;
+  border: 2000px solid greenyellow;}
+
+
+
+
